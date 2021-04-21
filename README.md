@@ -4,6 +4,8 @@ Please note this program is longer being updated as it was originally created in
 
 For more information on the FiveM server that this program is made for check out the [website](https://www.thewackpackrp.com/) or [Discord server](https://discord.me/thewackpack). 
 
+A new version has been made from the ground up with a full UI in C#. It can be found [here](https://github.com/sircam191/WPFineCalcV5).
+
 ## Installation
 
 To run the program use the ``FineCalcV3.0.exe`` in the ``wp_FineCalc_v3.0.zip`` file.
